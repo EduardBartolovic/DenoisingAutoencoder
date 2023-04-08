@@ -1,1 +1,3 @@
-# DenoisingAutoencoder
+# Image Denoising Autoencoder
+
+This is a project that uses a deep learning technique called autoencoder to denoise images. The autoencoder is a neural network that learns to compress the input image into a low-dimensional representation and then reconstructs the image from this representation. In this way, the autoencoder learns to remove the noise present in the input image by only keeping the relevant features of the image.
